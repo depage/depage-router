@@ -43,6 +43,11 @@ class Url
     public $baseUrl = "";
 
     /**
+     * @brief basePath
+     **/
+    public $basePath = "";
+
+    /**
      * @brief path
      **/
     public $path = "";

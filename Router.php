@@ -29,6 +29,16 @@ class Router
         'urlSubArgs' => -1,
     ];
 
+    /**
+     * @brief baseUrl
+     **/
+    protected $baseUrl;
+
+    /**
+     * @brief languages
+     **/
+    protected $languages;
+
     // {{{ __construct()
     /**
      * @brief __construct

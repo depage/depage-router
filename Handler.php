@@ -42,6 +42,11 @@ class Handler
      **/
     public $lang = null;
 
+    /**
+     * @brief action
+     */
+    public $action = "";
+
     // {{{ error()
     /**
      * @brief error
