@@ -32,12 +32,12 @@ class Router
     /**
      * @brief baseUrl
      **/
-    protected $baseUrl;
+    public $baseUrl;
 
     /**
      * @brief languages
      **/
-    protected $languages;
+    public $languages;
 
     // {{{ __construct()
     /**
